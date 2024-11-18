@@ -28,7 +28,7 @@ body {
     @apply text-[16px] leading-[1.4em] text-white font-atHauss
   }
   .grain {
-    @apply bg-[url('/gif/grain-slow.gif')] opacity-[0.1]
+    @apply bg-[url('/gif/grain-slow.gif')] opacity-[0.05]
   }
 
 }
